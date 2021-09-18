@@ -7,6 +7,33 @@
 	"items": [
 		
 			{
+				"id": "http://rocu.micro.blog/2021/09/16/finished-reading-der.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9783839228104\">Der Stempelmörder</a> by Torsten Schönberg 📚</p>\n\n<p>⭐️⭐️⭐️ A typical regional crime thriller. It&rsquo;s about German economic refugees in Vienna, many corpses. The book has a rather flat sense of humor. Not a special book and completely unrealistic, but I read it to the end and found it amusing.</p>\n",
+				"content_text": "Finished reading: [Der Stempelmörder](https://micro.blog/books/9783839228104) by Torsten Schönberg 📚\r\n\r\n⭐️⭐️⭐️ A typical regional crime thriller. It's about German economic refugees in Vienna, many corpses. The book has a rather flat sense of humor. Not a special book and completely unrealistic, but I read it to the end and found it amusing.\n",
+				"date_published": "2021-09-16T07:30:47+02:00",
+				"url": "https://rocu.de/2021/09/16/finished-reading-der.html",
+				"tags": ["Reading"]
+			},
+			{
+				"id": "http://rocu.micro.blog/2021/09/13/currently-reading-der.html",
+				
+				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9783839228104\">Der Stempelmörder</a> by Torsten Schönberg 📚</p>\n",
+				"content_text": "Currently reading: [Der Stempelmörder](https://micro.blog/books/9783839228104) by Torsten Schönberg 📚\n",
+				"date_published": "2021-09-13T09:32:53+02:00",
+				"url": "https://rocu.de/2021/09/13/currently-reading-der.html",
+				"tags": ["Reading"]
+			},
+			{
+				"id": "http://rocu.micro.blog/2021/09/10/finished-reading-blue.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780575088276\">Blue Remembered Earth</a> by Alastair Reynolds 📚</p>\n\n<p>⭐️⭐️⭐️⭐️ 4 Stars. Great Sci Fi, but not perfect. Feels like the prequel to an epic adventure. Now I really want to read the other books from the series.</p>\n",
+				"content_text": "Finished reading: [Blue Remembered Earth](https://micro.blog/books/9780575088276) by Alastair Reynolds 📚\n\n⭐️⭐️⭐️⭐️ 4 Stars. Great Sci Fi, but not perfect. Feels like the prequel to an epic adventure. Now I really want to read the other books from the series.\n",
+				"date_published": "2021-09-10T08:07:00+02:00",
+				"url": "https://rocu.de/2021/09/10/finished-reading-blue.html",
+				"tags": ["Reading"]
+			},
+			{
 				"id": "http://rocu.micro.blog/2021/09/04/fortune-cowsay.html",
 				"title": "fortune | cowsay",
 				"content_html": "<pre><code>$ brew install fortune\n$ brew install cowsay\n$ fortune | cowsay\n ----------------------------------------\n/ Retirement means that when someone says \n| &quot;Have a nice day&quot;, you actually have a  |\n shot at it.                             /\n -----------------------------------------\n            ^__^\n            (oo)-------\n            (__)       )/\n                ||----w |\n                ||     ||\n</code></pre>\n",
@@ -155,6 +182,23 @@
 				"date_published": "2015-03-16T11:00:00+02:00",
 				"url": "https://rocu.de/2015/03/16/living-a-good.html",
 				"tags": [" Living a good life"]
+			},
+			{
+				"id": "http://rocu.micro.blog/2021/09/11/life-glorios-improvisational.html",
+				
+				"content_html": "<blockquote>\n<p>Life: Glorios improvisational theatre. Out now! Lean back and enjoy!</p>\n</blockquote>\n",
+				"content_text": "> Life: Glorios improvisational theatre. Out now! Lean back and enjoy!\n",
+				"date_published": "2014-12-02T09:45:00+02:00",
+				"url": "https://rocu.de/2021/09/11/life-glorios-improvisational.html",
+				"tags": [" Living a good life"]
+			},
+			{
+				"id": "http://rocu.micro.blog/2014/11/27/a-world-without.html",
+				"title": "A world without time",
+				"content_html": "<p><img src=\"https://rocu.de/uploads/2021/0a492b25bc.jpg\" alt=\"\" /></p>\n\n<p>Imagine there were no days, no hours and no seconds. And no time.</p>\n\n<p>How would you feel about problems in the future?</p>\n\n<p>How would you feel about the past?</p>\n\n<p>What would be your story without a past? Would there be a story?</p>\n\n<p>Who would be you without time? Would you even be?</p>\n\n<p>What would be true? What would be false?</p>\n\n<p>Would you even think these questions? Would there be any questions?</p>\n\n<p>Or would you just live in bliss? Now.</p>\n",
+				"content_text": "![](https://rocu.de/uploads/2021/0a492b25bc.jpg)\n\nImagine there were no days, no hours and no seconds. And no time.\n\nHow would you feel about problems in the future?\n\nHow would you feel about the past?\n\nWhat would be your story without a past? Would there be a story?\n\nWho would be you without time? Would you even be?\n\nWhat would be true? What would be false?\n\nWould you even think these questions? Would there be any questions?\n\nOr would you just live in bliss? Now.\n\n",
+				"date_published": "2014-11-27T11:00:00+02:00",
+				"url": "https://rocu.de/2014/11/27/a-world-without.html"
 			},
 			{
 				"id": "http://rocu.micro.blog/2014/02/23/reminders-to-myself.html",
