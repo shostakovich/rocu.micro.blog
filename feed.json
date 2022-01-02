@@ -7,6 +7,24 @@
 	"items": [
 		
 			{
+				"id": "http://rocu.micro.blog/2022/01/02/currently-reading-universum.html",
+				
+				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9783104913094\">Universum</a> by Phillip P. Peterson 📚</p>\n",
+				"content_text": "Currently reading: [Universum](https://micro.blog/books/9783104913094) by Phillip P. Peterson 📚\n",
+				"date_published": "2022-01-02T07:13:52+01:00",
+				"url": "https://rocu.de/2022/01/02/currently-reading-universum.html",
+				"tags": ["Reading"]
+			},
+			{
+				"id": "http://rocu.micro.blog/2021/12/26/finished-reading-elantris.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780765381026\">Elantris</a> by Brandon Sanderson 📚</p>\n",
+				"content_text": "Finished reading: [Elantris](https://micro.blog/books/9780765381026) by Brandon Sanderson 📚 \n",
+				"date_published": "2021-12-26T10:03:02+01:00",
+				"url": "https://rocu.de/2021/12/26/finished-reading-elantris.html",
+				"tags": ["Reading"]
+			},
+			{
 				"id": "http://rocu.micro.blog/2021/12/19/finished-reading-to.html",
 				
 				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781250790507\">To Sleep in a Sea of Stars</a> by Christopher Paolini 📚 Awesome Sci-Fi action-packed and with a great plot!</p>\n",
