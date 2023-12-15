@@ -7,6 +7,15 @@
 	"items": [
 		
 			{
+				"id": "http://rocu.micro.blog/2023/12/15/finished-reading-kein.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9783832160807\">Kein guter Mann</a> by Andreas Izquierdo 📚</p>\n",
+				"content_text": "Finished reading: [Kein guter Mann](https://micro.blog/books/9783832160807) by Andreas Izquierdo 📚\n",
+				"date_published": "2023-12-15T12:43:04+01:00",
+				"url": "https://rocu.de/2023/12/15/finished-reading-kein.html",
+				"tags": ["Reading"]
+			},
+			{
 				"id": "http://rocu.micro.blog/2023/11/27/finished-reading-the.html",
 				
 				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780765389176\">The Last Emperox</a> by John Scalzi 📚</p>\n",
@@ -82,7 +91,7 @@
 				"id": "http://rocu.micro.blog/2023/01/07/moonlight-beach.html",
 				
 				"content_html": "<p>Moonlight beach.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Moonlight beach.\n\n<img src=\"uploads/2023/ffc47ffae2.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "Moonlight beach.\n\n<img src=\"https://cdn.uploads.micro.blog/38462/2023/ffc47ffae2.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-01-07T13:56:14+01:00",
 				"url": "https://rocu.de/2023/01/07/moonlight-beach.html"
 			},
@@ -90,7 +99,7 @@
 				"id": "http://rocu.micro.blog/2023/01/06/181245.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "\n\n<img src=\"uploads/2023/59cbd8eef5.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "\n\n<img src=\"https://cdn.uploads.micro.blog/38462/2023/59cbd8eef5.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2023-01-06T18:12:45+01:00",
 				"url": "https://rocu.de/2023/01/06/181245.html"
 			},
@@ -116,7 +125,7 @@
 				"id": "http://rocu.micro.blog/2023/01/04/iberotel-makadi-beach.html",
 				
 				"content_html": "<p>Iberotel, Makadi Beach, Egypt</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Iberotel, Makadi Beach, Egypt\n\n<img src=\"uploads/2023/329757b34e.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "Iberotel, Makadi Beach, Egypt\n\n<img src=\"https://cdn.uploads.micro.blog/38462/2023/329757b34e.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2023-01-04T10:35:51+01:00",
 				"url": "https://rocu.de/2023/01/04/iberotel-makadi-beach.html"
 			},
@@ -160,7 +169,7 @@
 				"id": "http://rocu.micro.blog/2022/12/26/started-a-drawing.html",
 				
 				"content_html": "<p>Started a <a href=\"https://www.udemy.com/course/the-ultimate-drawing-course-beginner-to-advanced/\">drawing course on Udemy</a>. I am a complete beginner and had bad grades in school in art.</p>\n<p>This is my first drawing with pencil of an eye.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Started a [drawing course on Udemy](https://www.udemy.com/course/the-ultimate-drawing-course-beginner-to-advanced/). I am a complete beginner and had bad grades in school in art.\r\n\r\nThis is my first drawing with pencil of an eye.\n\n<img src=\"uploads/2022/37418fa836.jpg\" width=\"600\" height=\"450\" alt=\"My drawing of an eye.\">\n",
+				"content_text": "Started a [drawing course on Udemy](https://www.udemy.com/course/the-ultimate-drawing-course-beginner-to-advanced/). I am a complete beginner and had bad grades in school in art.\r\n\r\nThis is my first drawing with pencil of an eye.\n\n<img src=\"https://cdn.uploads.micro.blog/38462/2022/37418fa836.jpg\" width=\"600\" height=\"450\" alt=\"My drawing of an eye.\">\n",
 				"date_published": "2022-12-26T17:06:59+01:00",
 				"url": "https://rocu.de/2022/12/26/started-a-drawing.html"
 			},
@@ -348,7 +357,7 @@
 				"id": "http://rocu.micro.blog/2022/07/04/supersonic-planes-sinsheim.html",
 				
 				"content_html": "<p>Supersonic Planes, Sinsheim, Germany</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Supersonic Planes, Sinsheim, Germany\n\n<img src=\"uploads/2022/0c59c7ccc3.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "Supersonic Planes, Sinsheim, Germany\n\n<img src=\"https://cdn.uploads.micro.blog/38462/2022/0c59c7ccc3.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2022-07-04T08:54:56+01:00",
 				"url": "https://rocu.de/2022/07/04/supersonic-planes-sinsheim.html"
 			},
@@ -634,7 +643,7 @@
 				"id": "http://rocu.micro.blog/2022/01/08/103730.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "\n\n<img src=\"uploads/2022/06934e0f4e.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "\n\n<img src=\"https://rocu.micro.blog/uploads/2022/06934e0f4e.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2022-01-08T10:37:30+01:00",
 				"url": "https://rocu.de/2022/01/08/103730.html"
 			},
@@ -687,7 +696,7 @@
 				"id": "http://rocu.micro.blog/2021/12/06/rainbow-trees.html",
 				
 				"content_html": "<p>Rainbow trees.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Rainbow trees.\n\n<img src=\"uploads/2021/65a85f636a.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "Rainbow trees.\n\n<img src=\"https://rocu.micro.blog/uploads/2021/65a85f636a.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2021-12-06T20:46:06+01:00",
 				"url": "https://rocu.de/2021/12/06/rainbow-trees.html"
 			},
@@ -739,7 +748,7 @@
 				"id": "http://rocu.micro.blog/2021/11/07/fagradalsfjall-iceland.html",
 				
 				"content_html": "<p>Fagradalsfjall, Iceland</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Fagradalsfjall, Iceland\n\n<img src=\"uploads/2021/1fa0c44da1.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "Fagradalsfjall, Iceland\n\n<img src=\"https://rocu.micro.blog/uploads/2021/1fa0c44da1.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2021-11-07T16:49:20+01:00",
 				"url": "https://rocu.de/2021/11/07/fagradalsfjall-iceland.html"
 			},
@@ -765,7 +774,7 @@
 				"id": "http://rocu.micro.blog/2021/11/04/164748.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "\n\n<img src=\"uploads/2021/6207fdb530.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "\n\n<img src=\"https://rocu.micro.blog/uploads/2021/6207fdb530.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2021-11-04T17:47:48+01:00",
 				"url": "https://rocu.de/2021/11/04/164748.html"
 			},
@@ -773,7 +782,7 @@
 				"id": "http://rocu.micro.blog/2021/11/04/164728.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "\n\n<img src=\"uploads/2021/f4e380422c.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "\n\n<img src=\"https://rocu.micro.blog/uploads/2021/f4e380422c.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2021-11-04T17:47:28+01:00",
 				"url": "https://rocu.de/2021/11/04/164728.html"
 			},
@@ -781,7 +790,7 @@
 				"id": "http://rocu.micro.blog/2021/11/04/164659.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "\n\n<img src=\"uploads/2021/051d4bc3f1.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "\n\n<img src=\"https://rocu.micro.blog/uploads/2021/051d4bc3f1.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2021-11-04T17:46:59+01:00",
 				"url": "https://rocu.de/2021/11/04/164659.html"
 			},
@@ -789,7 +798,7 @@
 				"id": "http://rocu.micro.blog/2021/10/08/frauenkirche-dresden.html",
 				
 				"content_html": "<p>Frauenkirche Dresden</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Frauenkirche Dresden\n\n<img src=\"uploads/2021/026bc9cfb9.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "Frauenkirche Dresden\n\n<img src=\"https://rocu.micro.blog/uploads/2021/026bc9cfb9.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2021-10-08T16:28:03+01:00",
 				"url": "https://rocu.de/2021/10/08/frauenkirche-dresden.html"
 			},
