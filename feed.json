@@ -7,6 +7,32 @@
 	"items": [
 		
 			{
+				"id": "http://rocu.micro.blog/2024/01/16/finished-reading-todesnacht.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9783596299140\">Todesnacht</a> by Ragnar Jónasson 📚</p>\n",
+				"content_text": "Finished reading: [Todesnacht](https://micro.blog/books/9783596299140) by Ragnar Jónasson 📚\n",
+				"date_published": "2024-01-16T20:47:53+01:00",
+				"url": "https://rocu.de/2024/01/16/finished-reading-todesnacht.html",
+				"tags": ["Reading"]
+			},
+			{
+				"id": "http://rocu.micro.blog/2024/01/12/finished-reading-zur.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9783641284978\">Zur See</a> by Dörte Hansen 📚</p>\n",
+				"content_text": "Finished reading: [Zur See](https://micro.blog/books/9783641284978) by Dörte Hansen 📚\n",
+				"date_published": "2024-01-12T21:14:48+01:00",
+				"url": "https://rocu.de/2024/01/12/finished-reading-zur.html",
+				"tags": ["Reading"]
+			},
+			{
+				"id": "http://rocu.micro.blog/2024/01/09/iberotel-makadi-bay.html",
+				
+				"content_html": "<p>Iberotel, Makadi Bay, Egypt 🌴</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Iberotel, Makadi Bay, Egypt 🌴\n\n<img src=\"uploads/2024/image.jpg\" width=\"600\" height=\"450\" alt=\"Sunset in Makadi Bay, Egypt. A lush garden  in front of a tower. Palms in the background and a beautiful sunset with some light clouds.\">\n",
+				"date_published": "2024-01-09T16:04:34+01:00",
+				"url": "https://rocu.de/2024/01/09/iberotel-makadi-bay.html"
+			},
+			{
 				"id": "http://rocu.micro.blog/2024/01/09/finished-reading-mrzgefallene.html",
 				
 				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9783462308327\">Märzgefallene</a> by Volker Kutscher 📚</p>\n",
