@@ -7,6 +7,23 @@
 	"items": [
 		
 			{
+				"id": "http://rocu.micro.blog/2024/09/17/i-am-happy.html",
+				
+				"content_html": "<p>I am happy that after a few days of heavy rain, the sun is shining again.</p>\n<p>Also testing out my first non-smartphone camera in a very long time.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "I am happy that after a few days of heavy rain, the sun is shining again.\n\nAlso testing out my first non-smartphone camera in a very long time.\n\n<img src=\"uploads/2024/a03be6102e.jpg\" width=\"600\" height=\"399\" alt=\"\">\n",
+				"date_published": "2024-09-17T17:42:15+02:00",
+				"url": "https://rocu.de/2024/09/17/i-am-happy.html"
+			},
+			{
+				"id": "http://rocu.micro.blog/2024/06/12/beach-promenade-in.html",
+				
+				"content_html": "<p>Beach promenade in Arbon, Switzerland on day 1 of the E5 Alpine crossing.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Beach promenade in Arbon, Switzerland on day 1 of the E5 Alpine crossing.\n\n<img src=\"uploads/2024/6e493c6263.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2024-06-12T18:00:00+02:00",
+				"url": "https://rocu.de/2024/06/12/beach-promenade-in.html",
+				"tags": [" Living a good life"]
+			},
+			{
 				"id": "http://rocu.micro.blog/2024/01/25/a-fresh-delivery.html",
 				
 				"content_html": "<p>A fresh delivery of sardines 😍</p>\n<p><img src=\"https://rocu.de/uploads/2024/fa6618a299.jpg\" alt=\"\"></p>\n",
