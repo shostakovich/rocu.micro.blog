@@ -7,6 +7,39 @@
 	"items": [
 		
 			{
+				"id": "http://rocu.micro.blog/2024/09/24/finished-reading-pantopia.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9783104914435\">Pantopia</a> by Theresa Hannig 📚</p>\n",
+				"content_text": "Finished reading: [Pantopia](https://micro.blog/books/9783104914435) by Theresa Hannig 📚\n",
+				"date_published": "2024-09-24T16:14:26+02:00",
+				"url": "https://rocu.de/2024/09/24/finished-reading-pantopia.html",
+				"tags": ["Reading"]
+			},
+			{
+				"id": "http://rocu.micro.blog/2024/09/22/i-love-to.html",
+				
+				"content_html": "<p>I love to take a walk along the Amper-river in the evening. It always calms me down.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "I love to take a walk along the Amper-river in the evening. It always calms me down.\n\n<img src=\"uploads/2024/8f9ca0b065.jpg\" width=\"600\" height=\"399\" alt=\"\">\n",
+				"date_published": "2024-09-22T05:50:01+02:00",
+				"url": "https://rocu.de/2024/09/22/i-love-to.html"
+			},
+			{
+				"id": "http://rocu.micro.blog/2024/09/20/i-ordered-an.html",
+				
+				"content_html": "<p>I ordered an old refurbished and modified iPod about a month ago upgraded with Bluetooth, USB-C an SD-Card instead of an HDD and a new battery.</p>\n<p>I must say I am impressed with the iPod and that Apple still supports syncing Podcasts, Music and Audiobooks :)</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "I ordered an old refurbished and modified iPod about a month ago upgraded with Bluetooth, USB-C an SD-Card instead of an HDD and a new battery.\n\nI must say I am impressed with the iPod and that Apple still supports syncing Podcasts, Music and Audiobooks :)\n\n<img src=\"uploads/2024/bf91dbfc8c.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2024-09-20T18:50:43+02:00",
+				"url": "https://rocu.de/2024/09/20/i-ordered-an.html"
+			},
+			{
+				"id": "http://rocu.micro.blog/2024/09/19/its-easy-to.html",
+				
+				"content_html": "<p>It&rsquo;s easy to overlook those who keep the world running in the background without making a big fuzz about it.</p>\n<p>It&rsquo;s also quite easy to see people in objects.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "It's easy to overlook those who keep the world running in the background without making a big fuzz about it.\n\nIt's also quite easy to see people in objects.\n\n<img src=\"uploads/2024/2ade4fa2bd.jpg\" width=\"600\" height=\"399\" alt=\"\">\n",
+				"date_published": "2024-09-19T20:58:14+02:00",
+				"url": "https://rocu.de/2024/09/19/its-easy-to.html"
+			},
+			{
 				"id": "http://rocu.micro.blog/2024/09/17/i-am-happy.html",
 				
 				"content_html": "<p>I am happy that after a few days of heavy rain, the sun is shining again.</p>\n<p>Also testing out my first non-smartphone camera in a very long time.</p>\n<!-- raw HTML omitted -->\n",
